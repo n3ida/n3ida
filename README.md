@@ -2,7 +2,10 @@
 
 **`Desenvolvedora Júnior`**
 
-Me chamo Neida Reginaldo, tenho 24 anos e sou natural de Maputo, actualmente estudante de Administração de sistemas de informação redes na Universidade São Tomás de Moçambique. Tendo ganho gosto pela área de análise de dados e desenvolvimento. Pretendo aqui consolidar a minha carreira nessas áreas. Contacte-me pelo meu Linkedin: www.linkedin.com/in/neidareginaldo
+Me chamo Neida Reginaldo, tenho 24 anos e sou natural de Maputo, actualmente estudante de Administração de Sistemas de Informação e Redes na Universidade São Tomás de Moçambique. 
+Tendo ganho gosto pela área de desenvolvimento. 
+Pretendo aqui consolidar a minha carreira nessa área. 
+Contacte-me pelo meu Linkedin: www.linkedin.com/in/neidareginaldo
 
 
 <p align="left">
